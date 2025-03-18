@@ -1,1 +1,1 @@
-![Vista previa](https://raw.githubusercontent.com/usuario/repositorio/main/images/preview.png)
+![Vista previa](https://github.com/devyadid/Ejercicio_1/blob/main/Captura_Ejercicio_1.png)
